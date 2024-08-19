@@ -1,0 +1,83 @@
+
+freegame_bg.png
+size: 1341,978
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mg_bg_animation/background_cloud_01
+  rotate: false
+  xy: 760, 43
+  size: 474, 70
+  orig: 474, 70
+  offset: 0, 0
+  index: -1
+mg_bg_animation/background_cloud_03
+  rotate: false
+  xy: 762, 201
+  size: 287, 166
+  orig: 287, 166
+  offset: 0, 0
+  index: -1
+mg_bg_animation/background_main_01
+  rotate: false
+  xy: 777, 369
+  size: 324, 607
+  orig: 324, 607
+  offset: 0, 0
+  index: -1
+mg_bg_grass/background_cloud_02
+  rotate: false
+  xy: 2, 589
+  size: 773, 387
+  orig: 799, 400
+  offset: 9, 1
+  index: -1
+mg_bg_grass/background_main_02
+  rotate: true
+  xy: 1103, 226
+  size: 750, 72
+  orig: 750, 77
+  offset: 0, 2
+  index: -1
+mg_bg_grass/background_main_03
+  rotate: false
+  xy: 2, 233
+  size: 758, 354
+  orig: 758, 356
+  offset: 0, 1
+  index: -1
+mg_bg_grass/background_main_04
+  rotate: false
+  xy: 760, 115
+  size: 567, 84
+  orig: 567, 87
+  offset: 0, 1
+  index: -1
+mg_bg_grass/background_main_06
+  rotate: false
+  xy: 2, 2
+  size: 756, 229
+  orig: 756, 229
+  offset: 0, 0
+  index: -1
+mg_bg_grass/background_main_07
+  rotate: true
+  xy: 1177, 436
+  size: 540, 126
+  orig: 540, 126
+  offset: 0, 0
+  index: -1
+mg_bg_grass/background_main_08
+  rotate: true
+  xy: 1282, 287
+  size: 147, 57
+  orig: 148, 58
+  offset: 0, 0
+  index: -1
+mg_bg_grass/background_main_09
+  rotate: true
+  xy: 1177, 219
+  size: 215, 103
+  orig: 215, 105
+  offset: 0, 1
+  index: -1

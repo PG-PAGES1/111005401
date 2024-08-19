@@ -1,0 +1,363 @@
+
+h_monk.png
+size: 681,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bandage_L_01
+  rotate: false
+  xy: 489, 17
+  size: 14, 45
+  orig: 14, 45
+  offset: 0, 0
+  index: -1
+bandage_L_02
+  rotate: true
+  xy: 615, 3
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+bandage_L_03
+  rotate: false
+  xy: 134, 2
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+bandage_R_01
+  rotate: false
+  xy: 562, 62
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+bandage_R_02
+  rotate: false
+  xy: 630, 35
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+bandage_R_03
+  rotate: false
+  xy: 552, 4
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+beads_01
+  rotate: false
+  xy: 525, 2
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+beads_02
+  rotate: true
+  xy: 471, 64
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+beads_03
+  rotate: true
+  xy: 512, 66
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 514, 21
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+eye_ball_L
+  rotate: true
+  xy: 578, 4
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+eye_ball_R
+  rotate: false
+  xy: 656, 69
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+eye_brow_R
+  rotate: false
+  xy: 489, 4
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+eye_lid_L
+  rotate: true
+  xy: 209, 3
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+eye_lid_close_L
+  rotate: true
+  xy: 172, 2
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+eye_lid_close_R
+  rotate: true
+  xy: 660, 85
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+eye_pupil_L
+  rotate: false
+  xy: 667, 129
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+eye_pupil_R
+  rotate: false
+  xy: 221, 30
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+eyebrow_L
+  rotate: false
+  xy: 649, 3
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+eyelid_R
+  rotate: false
+  xy: 492, 66
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+fx_glow
+  rotate: false
+  xy: 523, 99
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+fx_lightsweep_01
+  rotate: true
+  xy: 255, 5
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+fx_lightsweep_02
+  rotate: true
+  xy: 562, 26
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+fx_lightsweep_03
+  rotate: true
+  xy: 565, 105
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+fx_lightsweep_04
+  rotate: true
+  xy: 588, 69
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+fx_lightsweep_05
+  rotate: true
+  xy: 599, 105
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+fx_lightsweep_06
+  rotate: true
+  xy: 596, 33
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+fx_lightsweep_07
+  rotate: true
+  xy: 622, 69
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+fx_lightsweep_08
+  rotate: true
+  xy: 633, 105
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+fx_star
+  rotate: false
+  xy: 471, 89
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fx_starburst
+  rotate: true
+  xy: 364, 5
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 416, 7
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 320, 58
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 134, 30
+  size: 109, 85
+  orig: 109, 85
+  offset: 0, 0
+  index: -1
+hat_back
+  rotate: true
+  xy: 381, 58
+  size: 81, 20
+  orig: 81, 20
+  offset: 0, 0
+  index: -1
+hat_cover
+  rotate: false
+  xy: 660, 42
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+head_b
+  rotate: true
+  xy: 423, 68
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+head_b_02
+  rotate: false
+  xy: 290, 4
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+head_t
+  rotate: true
+  xy: 252, 53
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+mouth_02
+  rotate: true
+  xy: 506, 2
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: true
+  xy: 233, 3
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+mouth_t
+  rotate: false
+  xy: 252, 41
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 529, 66
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 544, 26
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+ring
+  rotate: true
+  xy: 2, 2
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+ring_cover
+  rotate: true
+  xy: 221, 41
+  size: 98, 29
+  orig: 98, 29
+  offset: 0, 0
+  index: -1
+shadow_01
+  rotate: false
+  xy: 505, 19
+  size: 7, 45
+  orig: 7, 45
+  offset: 0, 0
+  index: -1
+shadow_02
+  rotate: true
+  xy: 403, 64
+  size: 75, 18
+  orig: 75, 18
+  offset: 0, 0
+  index: -1
+shadow_04
+  rotate: true
+  xy: 649, 19
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+shandow_03
+  rotate: false
+  xy: 597, 2
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+teeth
+  rotate: true
+  xy: 196, 2
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1

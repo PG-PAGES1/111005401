@@ -1,0 +1,20 @@
+
+cz.png
+size: 298,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feature_reel_glow_a
+  rotate: true
+  xy: 2, 2
+  size: 316, 215
+  orig: 316, 215
+  offset: 0, 0
+  index: -1
+respin_trigger_reel_bg/reel_vfx_a_00
+  rotate: false
+  xy: 219, 14
+  size: 77, 304
+  orig: 77, 304
+  offset: 0, 0
+  index: -1

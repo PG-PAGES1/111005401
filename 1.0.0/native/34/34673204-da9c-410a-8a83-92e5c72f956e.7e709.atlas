@@ -1,0 +1,69 @@
+
+s_wild_feature.png
+size: 658,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_star
+  rotate: false
+  xy: 602, 101
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+fx_wild
+  rotate: true
+  xy: 630, 61
+  size: 38, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+fx_wild_02
+  rotate: true
+  xy: 602, 37
+  size: 62, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+fx_wild_03
+  rotate: true
+  xy: 630, 24
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+w_monk
+  rotate: false
+  xy: 2, 2
+  size: 141, 142
+  orig: 141, 142
+  offset: 0, 0
+  index: -1
+w_monkey
+  rotate: false
+  xy: 280, 4
+  size: 132, 140
+  orig: 132, 140
+  offset: 0, 0
+  index: -1
+w_pig
+  rotate: false
+  xy: 145, 2
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+w_sandy
+  rotate: false
+  xy: 414, 11
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+wild
+  rotate: true
+  xy: 548, 19
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1

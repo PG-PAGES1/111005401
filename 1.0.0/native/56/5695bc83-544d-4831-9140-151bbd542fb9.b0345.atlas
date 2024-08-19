@@ -1,0 +1,202 @@
+
+xz.png
+size: 630,359
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feature_glow_d
+  rotate: false
+  xy: 2, 122
+  size: 151, 235
+  orig: 151, 235
+  offset: 0, 0
+  index: -1
+feature_glow_e
+  rotate: true
+  xy: 155, 161
+  size: 196, 109
+  orig: 196, 109
+  offset: 0, 0
+  index: -1
+flare_01_win
+  rotate: false
+  xy: 2, 7
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+glow_02_win
+  rotate: false
+  xy: 464, 182
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+星星/particle_win_b_00
+  rotate: true
+  xy: 2, 2
+  size: 3, 2
+  orig: 115, 115
+  offset: 0, 113
+  index: -1
+星星/particle_win_b_20
+  rotate: true
+  xy: 2, 2
+  size: 3, 2
+  orig: 115, 115
+  offset: 0, 113
+  index: -1
+星星/particle_win_b_21
+  rotate: true
+  xy: 2, 2
+  size: 3, 2
+  orig: 115, 115
+  offset: 0, 113
+  index: -1
+星星/particle_win_b_22
+  rotate: true
+  xy: 2, 2
+  size: 3, 2
+  orig: 115, 115
+  offset: 0, 113
+  index: -1
+星星/particle_win_b_23
+  rotate: true
+  xy: 2, 2
+  size: 3, 2
+  orig: 115, 115
+  offset: 0, 113
+  index: -1
+星星/particle_win_b_01
+  rotate: false
+  xy: 155, 124
+  size: 39, 35
+  orig: 115, 115
+  offset: 41, 41
+  index: -1
+星星/particle_win_b_02
+  rotate: true
+  xy: 515, 20
+  size: 61, 55
+  orig: 115, 115
+  offset: 28, 32
+  index: -1
+星星/particle_win_b_03
+  rotate: true
+  xy: 446, 4
+  size: 77, 67
+  orig: 115, 115
+  offset: 19, 26
+  index: -1
+星星/particle_win_b_04
+  rotate: false
+  xy: 446, 83
+  size: 91, 80
+  orig: 115, 115
+  offset: 10, 20
+  index: -1
+星星/particle_win_b_05
+  rotate: true
+  xy: 541, 153
+  size: 98, 87
+  orig: 115, 115
+  offset: 7, 17
+  index: -1
+星星/particle_win_b_06
+  rotate: true
+  xy: 368, 165
+  size: 80, 94
+  orig: 115, 115
+  offset: 27, 13
+  index: -1
+星星/particle_win_b_07
+  rotate: true
+  xy: 266, 162
+  size: 83, 100
+  orig: 115, 115
+  offset: 26, 10
+  index: -1
+星星/particle_win_b_08
+  rotate: false
+  xy: 541, 253
+  size: 87, 104
+  orig: 115, 115
+  offset: 25, 8
+  index: -1
+星星/particle_win_b_09
+  rotate: false
+  xy: 450, 252
+  size: 89, 105
+  orig: 115, 115
+  offset: 24, 8
+  index: -1
+星星/particle_win_b_10
+  rotate: false
+  xy: 353, 52
+  size: 91, 108
+  orig: 115, 115
+  offset: 23, 7
+  index: -1
+星星/particle_win_b_11
+  rotate: false
+  xy: 266, 247
+  size: 91, 110
+  orig: 115, 115
+  offset: 24, 5
+  index: -1
+星星/particle_win_b_12
+  rotate: false
+  xy: 117, 10
+  size: 93, 110
+  orig: 115, 115
+  offset: 22, 5
+  index: -1
+星星/particle_win_b_13
+  rotate: false
+  xy: 212, 49
+  size: 93, 110
+  orig: 115, 115
+  offset: 22, 5
+  index: -1
+星星/particle_win_b_14
+  rotate: false
+  xy: 359, 247
+  size: 89, 110
+  orig: 115, 115
+  offset: 23, 5
+  index: -1
+星星/particle_win_b_15
+  rotate: true
+  xy: 212, 3
+  size: 44, 110
+  orig: 115, 115
+  offset: 23, 5
+  index: -1
+星星/particle_win_b_16
+  rotate: false
+  xy: 307, 50
+  size: 44, 110
+  orig: 115, 115
+  offset: 23, 5
+  index: -1
+星星/particle_win_b_17
+  rotate: true
+  xy: 324, 8
+  size: 40, 108
+  orig: 115, 115
+  offset: 26, 7
+  index: -1
+星星/particle_win_b_18
+  rotate: true
+  xy: 196, 144
+  size: 15, 13
+  orig: 115, 115
+  offset: 50, 102
+  index: -1
+星星/particle_win_b_19
+  rotate: false
+  xy: 196, 129
+  size: 13, 13
+  orig: 115, 115
+  offset: 51, 102
+  index: -1

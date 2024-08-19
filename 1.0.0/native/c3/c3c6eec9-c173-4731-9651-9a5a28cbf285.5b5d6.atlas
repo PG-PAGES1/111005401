@@ -1,0 +1,424 @@
+
+bigwin3.png
+size: 1285,1100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_switch_light/bigwin_cloud_a
+  rotate: true
+  xy: 715, 2
+  size: 511, 515
+  orig: 540, 540
+  offset: 29, 21
+  index: -1
+bw_switch_light/bigwin_cloud_b
+  rotate: false
+  xy: 715, 515
+  size: 568, 583
+  orig: 604, 604
+  offset: 16, 11
+  index: -1
+bw_switch_light/bigwin_cloud_c
+  rotate: true
+  xy: 2, 380
+  size: 718, 711
+  orig: 785, 785
+  offset: 28, 44
+  index: -1
+
+bigwin.jpg
+size: 1368,1399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1/a1_00016
+  rotate: false
+  xy: 1044, 380
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00018
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00020
+  rotate: false
+  xy: 229, 198
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00022
+  rotate: false
+  xy: 456, 176
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00024
+  rotate: false
+  xy: 683, 170
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00026
+  rotate: false
+  xy: 910, 153
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00028
+  rotate: false
+  xy: 1137, 153
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00030
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+bigwin_glow_b
+  rotate: false
+  xy: 537, 1257
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+bw_bg_light/bigwin_flare_a
+  rotate: false
+  xy: 520, 403
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+bw_bg_light/bigwin_flare_b
+  rotate: false
+  xy: 2, 898
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+bw_bg_light/bigwin_glow_a
+  rotate: false
+  xy: 281, 1288
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+bw_light_line
+  rotate: false
+  xy: 46, 1352
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+bw_particle/bigwin_particle_00
+  rotate: true
+  xy: 93, 1323
+  size: 74, 76
+  orig: 210, 432
+  offset: 132, 356
+  index: -1
+bw_particle/bigwin_particle_01
+  rotate: false
+  xy: 171, 1289
+  size: 108, 108
+  orig: 210, 432
+  offset: 98, 324
+  index: -1
+bw_particle/bigwin_particle_02
+  rotate: true
+  xy: 392, 1262
+  size: 135, 143
+  orig: 210, 432
+  offset: 71, 289
+  index: -1
+bw_particle/bigwin_particle_03
+  rotate: true
+  xy: 679, 1235
+  size: 162, 171
+  orig: 210, 432
+  offset: 44, 261
+  index: -1
+bw_particle/bigwin_particle_04
+  rotate: true
+  xy: 1121, 1217
+  size: 180, 198
+  orig: 210, 432
+  offset: 26, 234
+  index: -1
+bw_particle/bigwin_particle_05
+  rotate: true
+  xy: 1039, 1018
+  size: 197, 220
+  orig: 210, 432
+  offset: 9, 212
+  index: -1
+bw_particle/bigwin_particle_06
+  rotate: true
+  xy: 2, 1098
+  size: 189, 243
+  orig: 210, 432
+  offset: 17, 189
+  index: -1
+bw_particle/bigwin_particle_07
+  rotate: true
+  xy: 2, 666
+  size: 200, 261
+  orig: 210, 432
+  offset: 6, 171
+  index: -1
+bw_particle/bigwin_particle_08
+  rotate: true
+  xy: 529, 616
+  size: 208, 274
+  orig: 210, 432
+  offset: 0, 158
+  index: -1
+bw_particle/bigwin_particle_09
+  rotate: true
+  xy: 805, 607
+  size: 208, 288
+  orig: 210, 432
+  offset: 0, 144
+  index: -1
+bw_particle/bigwin_particle_10
+  rotate: true
+  xy: 733, 397
+  size: 208, 309
+  orig: 210, 432
+  offset: 0, 121
+  index: -1
+bw_particle/bigwin_particle_11
+  rotate: true
+  xy: 1095, 607
+  size: 208, 271
+  orig: 210, 432
+  offset: 0, 161
+  index: -1
+bw_particle/bigwin_particle_12
+  rotate: true
+  xy: 2, 456
+  size: 208, 259
+  orig: 210, 432
+  offset: 0, 171
+  index: -1
+bw_particle/bigwin_particle_13
+  rotate: true
+  xy: 263, 425
+  size: 208, 255
+  orig: 210, 432
+  offset: 0, 175
+  index: -1
+bw_particle/bigwin_particle_14
+  rotate: true
+  xy: 202, 868
+  size: 197, 259
+  orig: 210, 432
+  offset: 9, 171
+  index: -1
+bw_particle/bigwin_particle_15
+  rotate: true
+  xy: 247, 1067
+  size: 193, 255
+  orig: 210, 432
+  offset: 7, 174
+  index: -1
+bw_particle/bigwin_particle_16
+  rotate: true
+  xy: 504, 1038
+  size: 195, 271
+  orig: 210, 432
+  offset: 5, 159
+  index: -1
+bw_particle/bigwin_particle_17
+  rotate: true
+  xy: 777, 1025
+  size: 195, 260
+  orig: 210, 432
+  offset: 2, 168
+  index: -1
+bw_particle/bigwin_particle_18
+  rotate: true
+  xy: 265, 635
+  size: 202, 262
+  orig: 210, 432
+  offset: 1, 166
+  index: -1
+bw_particle/bigwin_particle_19
+  rotate: true
+  xy: 463, 839
+  size: 197, 264
+  orig: 210, 432
+  offset: 0, 164
+  index: -1
+bw_particle/bigwin_particle_20
+  rotate: true
+  xy: 729, 826
+  size: 197, 266
+  orig: 210, 432
+  offset: 0, 162
+  index: -1
+bw_particle/bigwin_particle_21
+  rotate: true
+  xy: 997, 817
+  size: 199, 275
+  orig: 210, 432
+  offset: 0, 153
+  index: -1
+bw_particle/bigwin_particle_22
+  rotate: true
+  xy: 852, 1222
+  size: 175, 267
+  orig: 210, 432
+  offset: 5, 161
+  index: -1
+bw_particle_01
+  rotate: false
+  xy: 19, 1372
+  size: 25, 25
+  orig: 28, 28
+  offset: 1, 2
+  index: -1
+bw_particle_effect
+  rotate: false
+  xy: 2, 1382
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+
+bigwin2.jpg
+size: 1364,770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1/a1_00032
+  rotate: false
+  xy: 2, 543
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00034
+  rotate: false
+  xy: 229, 543
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00036
+  rotate: false
+  xy: 456, 543
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00038
+  rotate: false
+  xy: 683, 543
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00040
+  rotate: false
+  xy: 910, 543
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00042
+  rotate: false
+  xy: 1137, 543
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00044
+  rotate: false
+  xy: 2, 316
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00046
+  rotate: false
+  xy: 229, 316
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00048
+  rotate: false
+  xy: 456, 316
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00050
+  rotate: false
+  xy: 683, 316
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00052
+  rotate: false
+  xy: 910, 316
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00054
+  rotate: false
+  xy: 1137, 316
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00056
+  rotate: false
+  xy: 2, 89
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00058
+  rotate: false
+  xy: 229, 89
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+a1/a1_00060
+  rotate: false
+  xy: 456, 89
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+bigwin_glow_c
+  rotate: false
+  xy: 683, 34
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+bw_bg_light/bigwin_pattern
+  rotate: false
+  xy: 965, 2
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
